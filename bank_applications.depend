@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1542453909 source:c:\users\beboayman\desktop\bank_applications\main.cpp
+	<iostream>
+	"BankAccount.h"
+
+1542453886 c:\users\beboayman\desktop\bank_applications\include\bankaccount.h
+	<iostream>
+	<string>
+
+1542461197 source:c:\users\beboayman\desktop\bank_applications\src\bankaccount.cpp
+	"BankAccount.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1542491592 source:c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\main.cpp
+	<iostream>
+	"BankAccount.h"
+	"SavingBankAccount.h"
+	"Client.h"
+	"bankApplication.h"
+
+1542568227 c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\include\bankaccount.h
+
+1542568739 c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\include\savingbankaccount.h
+	"BankAccount.h"
+
+1542568765 c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\include\client.h
+	"BankAccount.h"
+	<iostream>
+
+1542568673 c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\include\bankapplication.h
+	"Client.h"
+
+1542568966 source:c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\src\bankaccount.cpp
+	"BankAccount.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
+1542570849 source:c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\src\bankapplication.cpp
+	"bankApplication.h"
+	"BankAccount.h"
+	"Client.h"
+	"SavingBankAccount.h"
+
+1542568674 source:c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\src\client.cpp
+	"Client.h"
+
+1542569111 source:c:\users\beboayman\desktop\new folder (2)\group task\bank_applications\src\savingbankaccount.cpp
+	"SavingBankAccount.h"
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
